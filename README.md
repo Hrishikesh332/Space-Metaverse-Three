@@ -2,7 +2,7 @@
 
 Glimpse
 
-![](https://raw.githubusercontent.com/Hrishikesh332/Space-Dekho/main/src/Screenshot1.png?token=GHSAT0AAAAAAB5XEHI3WFPV54ED6ISKVQ6AY6S6FRQ)
+![](https://github.com/Hrishikesh332/Space-Metaverse-Three/blob/main/src/Screenshot1.png)
 
 
 
